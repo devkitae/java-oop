@@ -1,2 +1,2 @@
-# java-oop-practice
+# java-oop
 Fast Campus Spring Boot Java OOP Examples
